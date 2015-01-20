@@ -1,0 +1,105 @@
+[2008/09/29 05:58:10] entry surver page: PANAS
+[2008/09/29 05:58:10] pass thru: 1 -- PANAS
+[2008/09/29 05:58:17] entry surver page: PANAS
+[2008/09/29 05:58:17] submitted: 1
+[2008/09/29 05:58:17] pass thru: 2 -- outdoor
+[2008/09/29 05:58:24] entry surver page: outdoor
+[2008/09/29 05:58:24] submitted: 2
+[2008/09/29 05:58:24] pass thru: 3 -- work
+[2008/09/29 05:58:35] entry surver page: work
+[2008/09/29 05:58:35] submitted: 3
+[2008/09/29 05:58:35] pass thru: 4 -- family
+[2008/09/29 05:58:41] entry surver page: family
+[2008/09/29 05:58:41] submitted: 4
+[2008/09/29 05:58:41] pass thru: 5 -- endOfSession
+[2008/09/29 07:17:49] entry surver page: PANAS
+[2008/09/29 07:17:49] pass thru: 1 -- PANAS
+[2008/09/29 07:17:54] entry surver page: PANAS
+[2008/09/29 07:17:54] submitted: 1
+[2008/09/29 07:17:54] pass thru: 2 -- outdoor
+[2008/09/29 07:18:00] entry surver page: outdoor
+[2008/09/29 07:18:00] submitted: 2
+[2008/09/29 07:18:00] pass thru: 3 -- work
+[2008/09/29 07:18:04] entry surver page: work
+[2008/09/29 07:18:04] submitted: 3
+[2008/09/29 07:18:04] pass thru: 4 -- family
+[2008/09/29 07:18:07] entry surver page: family
+[2008/09/29 07:18:07] submitted: 4
+[2008/09/29 07:18:07] pass thru: 5 -- endOfSession
+[2008/09/29 07:19:51] entry surver page: PANAS
+[2008/09/29 07:19:51] pass thru: 1 -- PANAS
+[2008/09/29 07:19:55] entry surver page: PANAS
+[2008/09/29 07:19:55] submitted: 1
+[2008/09/29 07:19:55] pass thru: 2 -- outdoor
+[2008/09/29 07:19:59] entry surver page: outdoor
+[2008/09/29 07:19:59] submitted: 2
+[2008/09/29 07:19:59] pass thru: 3 -- work
+[2008/09/29 07:20:06] entry surver page: work
+[2008/09/29 07:20:06] submitted: 3
+[2008/09/29 07:20:06] pass thru: 4 -- family
+[2008/09/29 07:20:09] entry surver page: family
+[2008/09/29 07:20:09] submitted: 4
+[2008/09/29 07:20:09] next phase: window.location="http://192.168.0.191/hl/byebye"
+[2008/09/29 07:20:09] pass thru: 5 -- endOfSession
+[2008/09/29 07:22:08] entry surver page: PANAS
+[2008/09/29 07:22:08] pass thru: 1 -- PANAS
+[2008/09/29 07:22:12] entry surver page: PANAS
+[2008/09/29 07:22:12] submitted: 1
+[2008/09/29 07:22:12] pass thru: 2 -- outdoor
+[2008/09/29 07:22:15] entry surver page: outdoor
+[2008/09/29 07:22:15] submitted: 2
+[2008/09/29 07:22:15] pass thru: 3 -- work
+[2008/09/29 07:22:19] entry surver page: work
+[2008/09/29 07:22:19] submitted: 3
+[2008/09/29 07:22:19] pass thru: 4 -- family
+[2008/09/29 07:22:21] entry surver page: family
+[2008/09/29 07:22:21] submitted: 4
+[2008/09/29 07:22:21] next phase: window.location="http://192.168.0.191/hl/byebye"
+[2008/09/29 07:22:21] pass thru: 5 -- endOfSession
+[2008/09/29 07:25:19] entry surver page: PANAS
+[2008/09/29 07:25:19] pass thru: 1 -- PANAS
+[2008/09/29 07:25:24] entry surver page: PANAS
+[2008/09/29 07:25:24] submitted: 1
+[2008/09/29 07:25:24] pass thru: 2 -- outdoor
+[2008/09/29 07:25:29] entry surver page: outdoor
+[2008/09/29 07:25:29] submitted: 2
+[2008/09/29 07:25:29] pass thru: 3 -- work
+[2008/09/29 07:25:34] entry surver page: work
+[2008/09/29 07:25:34] submitted: 3
+[2008/09/29 07:25:34] pass thru: 4 -- family
+[2008/09/29 07:25:38] entry surver page: family
+[2008/09/29 07:25:38] submitted: 4
+[2008/09/29 07:25:38] next phase: window.location="http://192.168.0.191/hl/byebye"?reqMsg=endOSession
+[2008/09/29 07:25:38] pass thru: 5 -- endOfSession
+[2008/09/29 07:28:22] entry surver page: PANAS
+[2008/09/29 07:28:22] pass thru: 1 -- PANAS
+[2008/09/29 07:28:26] entry surver page: PANAS
+[2008/09/29 07:28:26] submitted: 1
+[2008/09/29 07:28:26] pass thru: 2 -- outdoor
+[2008/09/29 07:28:29] entry surver page: outdoor
+[2008/09/29 07:28:29] submitted: 2
+[2008/09/29 07:28:29] pass thru: 3 -- work
+[2008/09/29 07:28:32] entry surver page: work
+[2008/09/29 07:28:32] submitted: 3
+[2008/09/29 07:28:32] pass thru: 4 -- family
+[2008/09/29 07:28:35] entry surver page: family
+[2008/09/29 07:28:35] submitted: 4
+[2008/09/29 07:28:35] next phase: 5 -- 6
+[2008/09/29 07:28:35] next phase: window.location="http://192.168.0.191/hl/byebye"?reqMsg=endOSession
+[2008/09/29 07:28:35] pass thru: 5 -- endOfSession
+[2008/09/29 07:30:11] entry surver page: PANAS
+[2008/09/29 07:30:11] pass thru: 1 -- PANAS
+[2008/09/29 07:30:16] entry surver page: PANAS
+[2008/09/29 07:30:16] submitted: 1
+[2008/09/29 07:30:16] pass thru: 2 -- outdoor
+[2008/09/29 07:30:18] entry surver page: outdoor
+[2008/09/29 07:30:18] submitted: 2
+[2008/09/29 07:30:18] pass thru: 3 -- work
+[2008/09/29 07:30:22] entry surver page: work
+[2008/09/29 07:30:22] submitted: 3
+[2008/09/29 07:30:22] pass thru: 4 -- family
+[2008/09/29 07:30:24] entry surver page: family
+[2008/09/29 07:30:24] submitted: 4
+[2008/09/29 07:30:24] next phase: 5 -- 6
+[2008/09/29 07:30:24] next phase: window.location="http://192.168.0.191/hl/byebye?reqMsg=endOSession"
+[2008/09/29 07:30:24] pass thru: 5 -- endOfSession

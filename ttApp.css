@@ -1,0 +1,341 @@
+
+
+/*
+#contentWrapper {
+        text-align:left;
+        background:white; /* goldenrod ; * /
+        width:600px;
+	/*height: 200px; * /
+        border: dashed 2px lightgray;
+        padding-top: 0;
+        margin-left: 3px;
+        margin-top:2px;
+        overflow:auto;   /* puts in scroll bar  * /
+}
+        
+#centercol {
+       /* position: absolute;  */ /* with absolute, the margin-top comes into play   * /
+        border: solid 2px black;
+
+       /* align:left;       SAT mar 8  * /
+
+        
+
+        width:600px;  /* 500px; * /
+        height: 200px;  /* 100px; * /
+      /*   padding: 1em; */   /* effects how close to left the divs are * / 
+        margin-left: 1px;  
+        margin-top: 1px;     
+         background: white ; /* background: LightGray; * /
+
+        font-family: Arial, Verdana, Geneva, Helvetica, Sans-Serif;
+
+	font-size: 12px;
+	font-weight: bold;
+	/* text-align: center; */ /* could be: left, center, right  * /
+        overflow:auto;
+}
+        
+
+.who{
+    
+   color: green;   /* the color of the text * /
+   font-family: arial;
+   background: yellow;
+  /*  background-color:"yellow";    SAT MAR *    * /
+   text-align:left;
+   /*border: solid 1px black;* /
+   width:150px;  /* 50px; * /
+   margin: 1px;  /*  this defines the distance/gap between the text divs  * /
+   /* margin-bottom: 1px * /
+
+   float:left;
+
+   margin-left: 2px;
+}
+       
+
+.said{
+    
+   color: green;   / * the color of the text * /
+   font-family: arial;
+   background: lightgray;    / * #cc0000;  * /
+   text-align:left;
+   border: solid 1px black;
+   width:410px;
+   margin: 1px;  / *  this defines the distance/gap between the text divs  * 
+   / * margin-bottom: 1px * /
+   margin-left: 2px;
+
+   float:left;
+
+}
+*/
+
+
+/*
+#layer1 { 
+background-color: pink;
+height:90px;
+width:90px;
+left:0px;
+top:0px;
+/* visibility: hidden; * /
+}
+
+*/ 
+
+
+
+
+
+/* START happy lab  layout exp  */
+
+/*html,body{margin:0;padding:0}*/
+
+/* body{font: 76% arial,sans-serif} */
+
+ p{margin:0 10px 10px}
+/* 
+a{
+	display:block;
+	color: #006;
+	padding:1px; 
+	text-decoration: none;       /* remove underlinng of links   * /
+}
+
+
+/* div#header{position:relative; } */
+
+/*div#header h1{ */
+/* */
+/*
+div#header img{
+	height:39px;  / * 80px; * /
+	width:142px;
+	line-height:39px;  / * 80px; * /
+	margin:0;
+	padding-right:5px;
+	background: #fff;
+	color:#ff0000; / * #79B30B * /
+}
+*/
+
+/*
+div#header2 img{
+	height:51px;  /* 80px; * /
+	width:720px;
+	line-height:51px;  /* 80px; * /
+	margin:0;
+	padding-right:0px;
+	background: #fff;
+	color:#ff0000; /* #79B30B * /
+}
+*/
+
+/* 
+
+div#header  h1 {
+	height:39px;  /* 80px; * /
+	width:578px;
+	line-height:39px;  /* 80px; * /
+	margin:0;
+	padding-left:10px;
+	background: #0000ff;
+	color:#ff0000; /* #79B30B * /
+}
+div#header p{
+	margin:0px;
+	 /* padding:5px 10px; * /
+	height:39px;
+	font-family: Arial, Verdana, Geneva, Helvetica, Sans-Serif;
+
+	font-size: 20px;
+	font-weight: bold;
+}
+
+*/
+
+
+/* div#header a{position:absolute;right:0;top:23px;} */
+
+
+/*
+div#content {background:#A9A9A9; margin-left:142px; width:578px;}  /* 578px  * /
+div#content p{line-height:1.4}
+
+div#navigation{background:#9ACD32;}
+div#navigation{float:left;width:142px;height:200px;/* margin-left:-100%* /}
+
+
+
+div#extra{clear:left;background:#FF8539; width:720px;}
+
+
+div#footer{background:#333;color: #FFF; width:720px;}
+
+div#footer p{
+	margin:10px;
+	padding:5px 5px; 
+	height:30px;
+}
+
+div#footer a{display:inline;padding:0;color: #C6D5FD }
+
+
+div#wrapper{float:left;/*width:100%;* /background: #00ff00;}
+
+*/
+
+
+/* div#extra{clear:left;width:100%} */
+
+/*  END  happy lab  layout exp   */ 
+
+
+a{
+
+	color: #fff;
+
+}
+
+
+.pageTitle {color: #2A4465; font-weight:bold;width:400px;margin-left: 5px;
+
+       font-family: Arial, Verdana, Geneva, Helvetica, Sans-Serif;
+
+	font-size: 20px;
+
+}
+
+.chevron {color: rgb(255,0,0); font-weight:bold;width:15px;}
+
+.red{color: rgb(255,0,0);}
+
+ul.decimal {list-style-type: decimal;  margin:30px;}
+ul.decimal-leading-zero {list-style-type: decimal-leading-zero}
+
+div#footer{background:405875;color: #fff;  height: 30px;float: left;margin-top: 6px;}
+div#seperator{background:405875;color: #000;  height: 30px;float: left; border: solid 2px 405875;}
+
+/*   happy lab layout survey table style */
+.coll {
+		width:700px;    /*  width of survey table   */
+		/* border-collapse: collapse; */
+		/* margin:0px; */
+}
+
+
+.tdQuestion { 
+		width:200px;   /* width of question column  in survay table  */
+
+}
+
+/*   happy lab layout II  zebra colors for survey tables */
+.thdr { background-color: #63A6D1;
+		color : #2A4465; 
+}
+
+.tdCell{text-align:center;   width:80px; }
+
+.trEven { background-color: #F3F6FA;
+		color : #2A4465; 
+}
+.trOdd { background-color: #c2D4E4;
+		color : #2A4465; 
+}
+
+.trSelected { background-color: #bbbbbb; 
+		color : #2A4465; 
+}
+
+.trOver { background-color: #9DAAB6; 
+		color : #2A4465; 
+}  
+
+.notCurrent {font-size: 80%; color : gray;}
+.current {font-size: 80%; color : black;}
+
+
+
+
+.message {  
+	width:570px;  
+	height:100px;  
+	background: #DEE0E3;  
+	display: none;  
+	margin:5px;
+	overflow: auto;
+}  
+
+
+/*   happy lab layout II */
+
+/* layout exp    =============================    */
+
+* { padding: 0; margin: 0; }
+
+body {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 13px;
+}
+#hl_wrapper { 
+ margin: 0 auto;
+ width: 720px;
+background:#F3F6FA;   /* i added this so dynamic height will give same colour to left side */
+}
+#hl_header {
+ color: #333;
+ width: 720px;
+/* float: left; */
+ padding: 0px;
+ /* border: 1px solid #ccc; */
+ height: 100px;
+ margin: 0px 0px 0px 0px;
+ background: #F3F6FA;
+}
+
+
+#hl_middle {
+ color: #333;
+ width: 720px;
+/* float: left; */
+ padding: 0px;
+ /* border: 1px solid #ccc; */
+ /* height: 100px; */
+ margin: 0px 0px 0px 0px;
+ background: F3F6FA;
+}
+
+#hl_leftcolumn { 
+ color: #000000;
+ /* border: 1px solid #000; */
+ background:#F3F6FA;  /*  orig color   #ff00ff;  */
+ margin: 0px 0px 0px 0px;
+ /* padding: 1px; */
+/*    height: 350px;    */
+ width: 142px;
+ float: left;
+}
+#hl_rightcolumn { 
+ float: right;
+ color: #333;
+ /* border: 1px solid #ccc; */
+ background: #F3F6FA;
+ margin: 0px 0px 0px 0px;
+ /* padding: 5px; */
+ /*    height: 350px;    */
+ width: 578px;
+ display: inline;
+/*              overflow: scroll;   */
+}
+#hl_footer { 
+ width: 720px;
+ clear: both;
+ color: #333;
+ /* border: 1px solid #ccc;*/
+ background: #405875;
+ margin: 0px 0px 10px 0px;
+/*  padding: 10px; */
+	height:30px;
+}

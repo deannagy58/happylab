@@ -1,0 +1,29 @@
+[05-Oct-2008 12:13:56] PHP Fatal error:  Call to undefined function:  alert() in /home/deannagy/public_html/hl/demog.php on line 26
+[05-Oct-2008 12:53:38] PHP Parse error:  syntax error, unexpected '[' in /home/deannagy/public_html/hl/general.php on line 51
+[06-Oct-2008 17:25:01] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/deannagy/public_html/hl/index.php on line 16
+[06-Oct-2008 18:47:50] PHP Parse error:  syntax error, unexpected ':' in /home/deannagy/public_html/hl/index.php on line 47
+[06-Oct-2008 19:21:16] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/deannagy/public_html/hl/index.php on line 58
+[06-Oct-2008 19:22:07] PHP Parse error:  syntax error, unexpected '>' in /home/deannagy/public_html/hl/index.php on line 58
+[06-Oct-2008 19:27:27] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/deannagy/public_html/hl/index.php on line 59
+[06-Oct-2008 19:30:25] PHP Parse error:  syntax error, unexpected T_STRING in /home/deannagy/public_html/hl/index.php on line 70
+[06-Oct-2008 20:11:30] PHP Fatal error:  Cannot use [] for reading in /home/deannagy/public_html/hl/index.php on line 67
+[07-Oct-2008 05:58:22] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/deannagy/public_html/hl/hl_config.php on line 36
+[07-Oct-2008 05:58:29] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/deannagy/public_html/hl/hl_config.php on line 36
+[07-Oct-2008 05:58:58] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/deannagy/public_html/hl/hl_config.php on line 36
+[07-Oct-2008 05:59:56] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/deannagy/public_html/hl/hl_config.php on line 36
+[07-Oct-2008 10:54:40] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/deannagy/public_html/hl/hl_config.php on line 36
+[07-Oct-2008 10:55:13] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/deannagy/public_html/hl/hl_config.php on line 36
+[07-Oct-2008 10:56:50] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/deannagy/public_html/hl/hl_config.php on line 36
+[07-Oct-2008 11:17:04] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/deannagy/public_html/hl/hl_config.php on line 36
+[07-Oct-2008 11:33:51] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/deannagy/public_html/hl/hl_config.php on line 36
+[07-Oct-2008 14:38:38] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/deannagy/public_html/hl/hl_config.php on line 44
+[07-Oct-2008 14:38:44] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/deannagy/public_html/hl/hl_config.php on line 44
+[07-Oct-2008 14:40:35] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/deannagy/public_html/hl/hl_config.php on line 44
+[07-Oct-2008 14:40:42] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/deannagy/public_html/hl/hl_config.php on line 44
+[07-Oct-2008 14:41:03] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/deannagy/public_html/hl/hl_config.php on line 44
+[07-Oct-2008 15:03:11] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/deannagy/public_html/hl/hl_config.php on line 44
+[07-Oct-2008 15:04:58] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/deannagy/public_html/hl/hl_config.php on line 44
+[08-Oct-2008 02:13:17] PHP Parse error:  syntax error, unexpected ',' in /home/deannagy/public_html/hl/text/surveyText.php on line 741
+[08-Oct-2008 02:15:06] PHP Parse error:  syntax error, unexpected ',' in /home/deannagy/public_html/hl/text/surveyText.php on line 741
+[10-Oct-2008 00:23:17] PHP Parse error:  syntax error, unexpected '/' in /home/deannagy/public_html/hl/text/generalText.php on line 57
+[10-Oct-2008 00:43:32] PHP Parse error:  syntax error, unexpected '<' in /home/deannagy/public_html/hl/text/generalText.php on line 71
