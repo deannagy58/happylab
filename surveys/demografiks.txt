@@ -1,0 +1,563 @@
+1076^Male^50^hungarian^completed college degree^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^999^not student^999^
+1079^Female^55^albanian^completed college degree^grow  small town^999^now city suburbs^999^detached^999^Canada^employed^ta^student^full-time^
+1081^Male^27^caucasian^master^grow  city suburbs^999^now city center^999^apartment^999^Canada^employed^student^student^full-time^
+1080^999^999^999^999^999^999^999^999^999^999^Canada^999^999^999^999^
+1078^Male^37^Too White^master^grow  city suburbs^999^now city center^999^apartment^999^Canada^employed^Teaching assistant^student^full-time^
+1082^Female^29 ;-)^Caucasian^master^grow  city suburbs^999^now city center^999^townhouse^999^Canada^employed^TA^student^full-time^
+1083^Female^43^white^master^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^UNemployed^999^student^full-time^
+1081^Male^28^white^master^grow  city suburbs^999^now city center^999^apartment^999^Canada^employed^student^student^full-time^
+1084^Male^19^Caucasian^some uni^grow  rural or farm^999^now rural or farm^999^detached^999^Canada^UNemployed^999^student^full-time^
+1085^Male^20^caucasian^some uni^grow  city suburbs^999^now city center^999^townhouse^999^Canada^UNemployed^999^student^part-time^
+1087^Male^17^caucasian^completed high school^grow  city center^999^now city suburbs^999^detached^999^Canada^employed^Baker^student^full-time^
+1089^Female^21^YELLOW^some uni^grow  city suburbs^999^now city suburbs^999^apartment^999^Canada^UNemployed^student^student^full-time^
+1091^Female^18^Caucasian^completed high school^grow  small town^999^now rural or farm^999^detached^999^Canada^UNemployed^Student^student^full-time^
+1090^Female^21^Caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^Contract Services for the City of Brampton^student^part-time^
+1091^Female^18^Caucasian^completed high school^grow  small town^999^now rural or farm^999^detached^999^Canada^UNemployed^Student^student^full-time^
+1093^Female^38^caucasian - Canadian^some uni^grow  city suburbs^999^now city center^999^detached^999^Canada^employed^manager^student^part-time^
+1094^Female^23^Russian^some uni^grow  city center^999^now city suburbs^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1092^Female^19^African ^completed high school^grow  city suburbs^999^now city suburbs^999^apartment^999^Canada^employed^Residence Fellow^student^full-time^
+1095^Female^17^Caucasian^completed high school^grow  small town^999^now other^Calreton University Residences^building other^Residence Dorm^Canada^employed^Starbucks Barista^student^full-time^
+1096^Female^17^caucasian^some uni^grow  small town^999^now other^university residence^apartment^999^Canada^UNemployed^999^student^full-time^
+1098^Female^19^canadian^some uni^grow  city center^999^now city center^999^apartment^999^Canada^employed^student safety patroller^student^full-time^
+1100^Female^27^african canadain^some uni^grow  city suburbs^999^now city center^999^apartment^999^Canada^employed^personal trainer^student^full-time^
+1103^Male^18^Vietnamese^completed high school^grow  small town^999^now small town^999^detached^999^Canada^UNemployed^999^student^full-time^
+1107^Female^20^South Asian^some uni^grow  city center^999^now city center^999^townhouse^999^Canada^employed^Communication Advisor^student^part-time^
+1101^Female^19^caucasian^some uni^grow  city center^999^now city center^999^detached^999^Canada^employed^Co-ordinator at an Afterschool Program at a school^student^full-time^
+1109^Female^43^caucasian^some high school^grow  city center^999^now city center^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1110^Female^21^Caucaisan^some uni^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^employed^Starbucks Barista^student^part-time^
+1102^Female^21^caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^Lawyer\'s Assisstant^student^full-time^
+1111^Female^20^Caucasian^completed high school^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^employed^Retail ^student^full-time^
+1113^Female^22^no^undergraduate^grow  small town^999^now city center^999^townhouse^999^Canada^UNemployed^student^student^full-time^
+1117^Female^25^caucasion^some uni^grow  small town^999^now small town^999^detached^999^Canada^employed^Cashier^student^full-time^
+1116^Male^22^Caucasian^some uni^grow  small town^999^now city center^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1118^Female^18^Caucasian ^some uni^grow  city suburbs^999^now city suburbs^999^building other^Two Story House^Canada^employed^Cashier at grocery store^student^part-time^
+1121^Female^27^Caucasian^master^grow  small town^999^now city suburbs^999^townhouse^999^Canada^employed^Human Resources^student^part-time^
+1120^Male^18^caucasian^some uni^grow  small town^999^now city center^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1122^Female^22^chinese and greek^some uni^grow  city suburbs^999^now city center^999^building other^residence^Canada^UNemployed^student^student^full-time^
+1124^Female^20^caucasian^completed high school^grow  small town^999^now rural or farm^999^detached^999^Canada^employed^server^student^full-time^
+1123^Female^18^Mixed (Caucasian/Egyptian)^some uni^grow  small town^999^now city suburbs^999^building other^Dormitory Residence^Canada^UNemployed^999^student^full-time^
+1126^Female^17^caucasian^completed high school^grow  small town^999^now rural or farm^999^detached^999^Canada^UNemployed^999^student^999^
+1129^Female^18^Caucasian^completed high school^grow  city suburbs^999^now city center^999^building other^university residence^Canada^UNemployed^Student^student^full-time^
+1130^Female^28^white, english ^some uni^grow  city center^999^now city suburbs^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1128^Female^23^Caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^Sales^student^full-time^
+1132^Female^22^White^completed college degree^grow  small town^999^now city center^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1133^Female^17^Caucasian^completed high school^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^Daycare Worker^student^full-time^
+1134^Female^18^oriental^completed high school^grow  city center^999^now city center^999^detached^999^Canada^UNemployed^student^student^full-time^
+1135^Female^20^Caucasian^some uni^grow  small town^999^now city suburbs^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1138^Female^18^Canadian^completed high school^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1140^Female^23^White^completed college degree^grow  small town^999^now city suburbs^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1142^Female^25^white^some uni^grow  small town^999^now city center^999^detached^999^Canada^employed^social worker^student^full-time^
+1141^Female^18^caucasian^some uni^grow  city suburbs^999^now city center^999^building other^campus residence^Canada^UNemployed^999^student^full-time^
+1144^Male^20^Somali^some uni^grow  city center^999^now city suburbs^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1145^Male^21^Indian^completed high school^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1146^Female^21^asian^some uni^grow  city center^999^now city center^999^apartment^999^Canada^UNemployed^student^student^full-time^
+1148^Male^18^Vietnamese Canadian^completed high school^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^UNemployed^999^student^full-time^
+1149^Female^21^lebanese^completed college degree^grow  city center^999^now city center^999^townhouse^999^Canada^employed^server^student^full-time^
+1150^Male^18^Chinese^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^UNemployed^999^student^full-time^
+1154^Female^22^999^some uni^grow  small town^999^now city center^999^detached^999^Canada^UNemployed^student^student^full-time^
+1156^Female^18^999^some uni^grow  small town^999^now small town^999^detached^999^Canada^UNemployed^999^student^full-time^
+1158^Female^18^Black^some uni^grow  city center^999^now city center^999^building other^university residence^Canada^UNemployed^999^student^full-time^
+1152^Male^32^Caucasian^some uni^999^equal split city centre/small town^now small town^999^detached^999^Canada^employed^Child and youth worker ^student^part-time^
+1149^Female^21^lebanese^completed college degree^grow  city center^999^now city center^999^townhouse^999^Canada^employed^server^student^full-time^
+1161^Female^19^white^completed high school^grow  small town^999^now city suburbs^999^building other^CU residence ^Canada^UNemployed^999^student^full-time^
+1162^Female^17^Caucasian^some uni^grow  city suburbs^999^now small town^999^detached^999^Canada^employed^Retail Worker^student^full-time^
+1163^Female^20^Caucasian^some uni^grow  city center^999^now city center^999^townhouse^999^Canada^employed^produce clerk^student^full-time^
+1164^Female^18^Caucasion^some uni^grow  small town^999^now small town^999^detached^999^Canada^employed^Fast Food industry^student^full-time^
+1165^Female^18^Caucasion^some uni^grow  city suburbs^999^now city center^999^building other^University Residence^Canada^employed^Cashier^student^part-time^
+1166^Female^18^Chinese^completed high school^grow  city center^999^now city center^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1167^Female^18^Caucasian^completed high school^grow  small town^999^now city center^999^building other^residence^Canada^employed^Retail Salesperson^student^full-time^
+1151^Female^18^caucasian^completed high school^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^sales representative^student^part-time^
+1168^Female^18^caucasian^completed high school^grow  small town^999^now city center^999^apartment^999^Canada^employed^Part-time Rep 1 at Best Buy^student^full-time^
+1119^Female^23^Caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^Receptionist^student^part-time^
+1169^Female^26^Caucasian^completed college degree^grow  rural or farm^999^now city center^999^apartment^999^Canada^employed^Assistant Marketing Manager - Canada Post^student^full-time^
+1170^Female^22^Asian^some uni^grow  city center^999^now city center^999^townhouse^999^Canada^employed^Web developer^student^full-time^
+1171^Female^20^black^some uni^grow  city center^999^now city center^999^townhouse^999^Canada^employed^waitress^student^full-time^
+1174^Female^25^white^some uni^grow  city center^999^now city center^999^townhouse^999^Canada^employed^baker^student^part-time^
+1178^Female^22^caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^Baker^student^full-time^
+1180^Female^18^Caucasian^completed high school^grow  city center^999^now city center^999^apartment^999^Canada^UNemployed^999^student^part-time^
+1181^Female^20^caucasian^some uni^grow  city suburbs^999^now city center^999^apartment^999^Canada^employed^Maid/Hotel Cleaner^student^full-time^
+1173^Female^19^Caucasian^some uni^grow  small town^999^now small town^999^detached^999^Canada^employed^Waitress^student^part-time^
+1157^Female^23^asian^completed high school^grow  city center^999^now city center^999^building other^single house^Canada^employed^sales associates^student^full-time^
+1183^Male^53^Scottish/English^completed college degree^grow  small town^999^now rural or farm^999^detached^999^Canada^employed^social work^student^full-time^
+1186^Male^17^Caucasian^some uni^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^employed^Cashier^student^full-time^
+1187^Female^21^Caucasian^some uni^grow  city suburbs^999^now rural or farm^999^detached^999^Canada^employed^Deli clerk^student^full-time^
+1188^Male^19^Caucasian^completed high school^grow  small town^999^now city center^999^building other^School Residence^Canada^UNemployed^999^student^full-time^
+1189^Female^18^caucasain^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^sales associate^student^part-time^
+1190^Female^23^999^some uni^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^employed^clerical^student^part-time^
+1112^Female^22^Chinese^completed high school^grow  city center^999^now city suburbs^999^apartment^999^Canada^UNemployed^student^student^full-time^
+1192^Female^21^999^completed college degree^grow  small town^999^now small town^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1194^Male^20^Caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^Tennis Professional (coach)^student^full-time^
+1195^Male^20^White^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^warehouse selector^student^full-time^
+1199^Female^18^Caucasian^some uni^grow  city center^999^now city suburbs^999^building other^Residence^Canada^employed^999^student^full-time^
+1201^Male^19^White (North American)^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^Waiter/Bartender^student^full-time^
+1193^Male^23^Canadian^some uni^grow  small town^999^now small town^999^detached^999^Canada^employed^Delivery Driver^student^part-time^
+1202^Female^20^Canadian (cacausian)^some uni^grow  city suburbs^999^now city suburbs^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1204^Female^18^Caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^cashier^student^full-time^
+1203^Female^19^caucasian^some uni^grow  small town^999^now other^university residence^apartment^999^Canada^UNemployed^not employed^student^full-time^
+1198^Female^20^Pakistani^some uni^grow  small town^999^now city center^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1198^Female^20^Pakistani^some uni^grow  small town^999^now city center^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1205^Female^22^Dutch^some uni^grow  rural or farm^999^now small town^999^999^bungalow^Canada^UNemployed^999^student^full-time^
+1206^Female^18^999^completed high school^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^retail associate^student^part-time^
+1208^Female^18^caucasian^some uni^grow  city suburbs^999^now other^on campus^building other^residence building^Canada^UNemployed^999^student^full-time^
+1209^Male^18^Asian^completed high school^grow  city suburbs^999^now city suburbs^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1210^Female^20^Asian^some uni^grow  city center^999^now city center^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1213^Female^19^african america^completed high school^grow  city suburbs^999^now city center^999^apartment^999^Canada^employed^hostess^student^full-time^
+1172^Female^18^caucasian^some uni^grow  city center^999^now city center^999^detached^999^Canada^employed^retail^student^full-time^
+1215^Female^19^caucasian^some uni^grow  small town^999^now city suburbs^999^detached^999^Canada^employed^waitress^student^part-time^
+1216^Female^20^Tanzanian^completed high school^grow  city center^999^now city center^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1196^Female^18^Caucasian ^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^UNemployed^999^student^full-time^
+1163^Female^20^Caucasian/European^some uni^grow  city center^999^now city center^999^townhouse^999^Canada^employed^produce clerk^student^full-time^
+1217^Female^19^white^completed high school^grow  small town^999^now city center^999^apartment^999^Canada^UNemployed^n/a^student^full-time^
+1218^Female^18^999^some uni^grow  city center^999^now city center^999^detached^999^Canada^employed^Clerical^student^full-time^
+1219^Female^19^polish^some uni^grow  city center^999^now city center^999^detached^999^Canada^UNemployed^student^student^full-time^
+1220^Female^18^canadian^completed high school^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^UNemployed^999^student^full-time^
+1220^Female^18^canadian^completed high school^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^UNemployed^999^student^full-time^
+1221^Female^26^Caucasian^undergraduate^grow  small town^999^now city suburbs^999^detached^999^Canada^employed^Exam Coordinator^student^part-time^
+1223^Male^17^White^some uni^grow  small town^999^now other^Carleton^building other^Residence^Canada^UNemployed^999^student^full-time^
+1224^Male^17^Caucasian^completed high school^grow  city suburbs^999^now city suburbs^999^apartment^999^Canada^employed^Surveyor^student^full-time^
+1225^Female^18^caucasian^completed high school^grow  city suburbs^999^now city center^999^building other^residance^Canada^UNemployed^999^student^full-time^
+1227^Female^18^white^some uni^grow  rural or farm^999^now other^Rez^apartment^999^Canada^UNemployed^999^student^full-time^
+1228^Female^18^Caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^UNemployed^999^student^full-time^
+1230^Female^21^indian^some uni^grow  city suburbs^999^now city center^999^999^999^Canada^UNemployed^student^student^full-time^
+1197^Female^19^white^some uni^grow  small town^999^now city center^999^building other^residence^Canada^UNemployed^student^student^full-time^
+1131^Female^19^laotian, chinese, white^some uni^grow  rural or farm^999^now city center^999^building other^residence^Canada^UNemployed^999^student^full-time^
+1231^Male^18^Vietnamese^some uni^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^employed^telephone surveyer^student^full-time^
+1232^Female^17^Italian/Canadian^completed high school^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^Tanning Consultant^student^part-time^
+1233^Female^23^Chinese^some uni^grow  city center^999^now city center^999^apartment^999^Canada^UNemployed^Student^student^full-time^
+1235^Female^19^white^some uni^grow  city center^999^now small town^999^detached^999^Canada^UNemployed^999^student^full-time^
+1236^Female^17^Caucasian^completed high school^grow  city center^999^now city center^999^townhouse^999^Canada^employed^Customer Service Representative - Goodlife Fitness^student^full-time^
+1237^Female^19^White/Caucasian ^some uni^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^employed^retail^student^part-time^
+1240^Female^18^Kurdish^some uni^grow  city center^999^now city center^999^townhouse^999^Canada^employed^Retail associate^student^full-time^
+1242^Male^18^Caucasian^completed high school^grow  city suburbs^999^now city suburbs^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1243^Female^19^caucasian^some uni^grow  city suburbs^999^now city center^999^townhouse^999^Canada^employed^sales associate^student^full-time^
+1244^Female^17^caucasian^some uni^grow  small town^999^now city suburbs^999^detached^999^Canada^employed^hostess/sales associate^student^full-time^
+1245^Female^19^Caucasian ^some uni^grow  rural or farm^999^now city suburbs^999^detached^999^Canada^employed^Assistant manager^student^full-time^
+1238^Male^999^999^master^grow  city center^999^now city center^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1250^Female^19^white^some uni^grow  city suburbs^999^now city center^999^townhouse^999^Canada^UNemployed^student^student^full-time^
+1251^999^999^999^999^999^999^999^999^999^999^Canada^999^999^999^999^
+1253^Female^21^Caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^Administrative Assistant^student^part-time^
+1252^Female^33^caucasian^some high school^grow  small town^999^now rural or farm^999^detached^999^Canada^employed^waitress^student^part-time^
+1254^Female^19^caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^UNemployed^999^student^full-time^
+1257^Female^18^Chinese^completed high school^grow  city center^999^now city suburbs^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1256^Female^18^Caucasian^some uni^grow  rural or farm^999^now city center^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1241^Female^18^Caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^Part-time job at a movie theatre^student^full-time^
+1259^Female^21^Asian^some uni^grow  city center^999^now city center^999^townhouse^999^Canada^employed^Day Manager^student^part-time^
+1261^Male^22^South Asian^completed college degree^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^employed^Sales^student^full-time^
+1262^Female^19^white caucasian^some uni^grow  city suburbs^999^now city suburbs^999^building other^semi-detached^Canada^employed^children\'s after-school counsellour^student^full-time^
+1263^Female^20^caucasian^some uni^grow  city center^999^now city center^999^detached^999^Canada^UNemployed^student^student^full-time^
+1264^Female^19^Canadian^some uni^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1266^Female^20^Black^completed college degree^grow  city center^999^now city center^999^townhouse^999^Canada^employed^Cashier^student^full-time^
+1268^Female^18^Caucasian ^some uni^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1269^Female^18^caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^ACC Clerk^student^full-time^
+1271^Female^20^canadian^some uni^grow  small town^999^now city suburbs^999^townhouse^999^Canada^UNemployed^student^student^full-time^
+1272^Male^19^Chinese^some uni^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1273^Female^19^caucasian^some uni^grow  small town^999^now city center^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1267^Female^18^Caucasian^some uni^grow  city suburbs^999^now city suburbs^999^building other^Residence^Canada^employed^Residence Academic Sucess Programming Assistant^student^full-time^
+1275^Female^18^canadian ^completed high school^grow  city suburbs^999^now other^campus^building other^residence^Canada^employed^Bay Sales Associate^student^full-time^
+1277^Female^17^Caucasian^completed high school^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1279^Female^31^caucasian^completed college degree^grow  small town^999^now city center^999^townhouse^999^Canada^UNemployed^full-time mom^student^part-time^
+1280^Female^22^Caucasian^some uni^grow  city center^999^now city center^999^townhouse^999^Canada^employed^Barista at Starbucks^student^part-time^
+1279^Female^31^caucasian^completed college degree^grow  small town^999^now city center^999^townhouse^999^Canada^UNemployed^full-time mom^student^part-time^
+1282^Female^19^Caucasian^some uni^grow  small town^999^now city center^999^townhouse^999^Canada^employed^Retail Sales Representative^student^part-time^
+1284^Female^18^White^some uni^grow  city suburbs^999^now other^Residence in Carleton^building other^Residence in Carleton^Canada^UNemployed^999^student^full-time^
+1285^Female^17^cocaision^completed high school^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^Take out/ drive thru^student^full-time^
+1281^Male^18^Italian, Jamaican^completed high school^grow  city suburbs^999^now city center^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1286^Male^23^White^completed college degree^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^employed^Canadian Forces Reserves^student^part-time^
+1258^Female^18^white^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^Cashier^student^part-time^
+1287^Female^21^Chinese^some uni^grow  city center^999^now city center^999^townhouse^999^Canada^employed^student^student^full-time^
+1292^Female^19^white^some uni^grow  small town^999^now city suburbs^999^detached^999^Canada^employed^waitress^student^full-time^
+1295^Female^31^white^some uni^grow  rural or farm^999^now small town^999^apartment^999^Canada^employed^receptionist^student^full-time^
+1296^Female^19^caucasian^some uni^grow  small town^999^now city suburbs^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1298^Female^20^Caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^Keyholder^student^full-time^
+1299^Female^18^White^completed high school^grow  city center^999^now city center^999^detached^999^Canada^employed^Cook at the General Hospital^student^part-time^
+1300^Female^20^White^some uni^grow  city suburbs^999^now city suburbs^999^apartment^999^Canada^employed^Cashier^student^full-time^
+1302^Female^33^East Indian^undergraduate^grow  city suburbs^999^now city center^999^detached^999^Canada^employed^Computer Programmer^student^full-time^
+1291^Female^35^999^undergraduate^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^UNemployed^999^student^part-time^
+1304^Female^18^caucasian^some uni^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1306^Female^18^caucasian^completed high school^grow  small town^999^now city center^999^building other^university residence^Canada^employed^part-time retail at clothing boutique^student^full-time^
+1307^Male^23^caucasian^some uni^grow  rural or farm^999^now city suburbs^999^apartment^999^Canada^employed^tim horton\'s employee^student^full-time^
+1308^Female^18^1/2 taiwanese, 1/4 ukranian, 1/4 english^completed high school^grow  city suburbs^999^now city suburbs^999^building other^campus residency^Canada^UNemployed^999^student^full-time^
+1312^Female^18^Caucasian   ^some uni^grow  city suburbs^999^now city suburbs^999^building other^University residence^Canada^UNemployed^999^student^full-time^
+1313^Female^19^Caucasian^some uni^grow  small town^999^now city suburbs^999^townhouse^999^Canada^employed^Chapter\'s cashier^student^full-time^
+1316^Male^21^Jamaican (Black)^some uni^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1318^Female^23^European^some uni^grow  city center^999^now city center^999^apartment^999^Canada^employed^Receptionist^student^full-time^
+1139^Male^20^Chinese^some uni^grow  city center^999^now small town^999^townhouse^999^Canada^UNemployed^Student^student^full-time^
+1319^Female^19^Caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^retail^student^full-time^
+1321^Female^21^Caucasion^some uni^grow  small town^999^now city suburbs^999^townhouse^999^Canada^employed^Receptionist^student^full-time^
+1301^Female^21^Caucasian^some uni^grow  rural or farm^999^now city center^999^townhouse^999^Canada^employed^part-time nanny^student^full-time^
+1325^Female^18^Caucasian^some uni^grow  rural or farm^999^now city suburbs^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1326^Female^21^Caucasian^completed college degree^grow  city suburbs^999^now city suburbs^999^apartment^999^Canada^employed^Childcare^student^part-time^
+1327^Female^19^White^some uni^grow  city suburbs^999^now city suburbs^999^apartment^999^Canada^employed^CSR at Blockbuster and CSR at Carleton Athletics^student^full-time^
+1331^Female^21^caucasian^some uni^grow  rural or farm^999^now city suburbs^999^apartment^999^Canada^UNemployed^student^student^full-time^
+1334^Male^20^White^some uni^grow  city center^999^now city center^999^detached^999^Canada^employed^Deli Clerk^student^full-time^
+1239^Male^18^Indian^completed high school^grow  city center^999^now city center^999^townhouse^999^Canada^employed^999^student^full-time^
+1339^Female^25^caucastion^some uni^grow  other^Air Force Bases^now city center^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1342^Male^18^Vietnamese^some uni^grow  city center^999^now city center^999^detached^999^Canada^UNemployed^999^student^full-time^
+1341^Male^21^middle-eastern^completed college degree^grow  city center^999^now city center^999^apartment^999^Canada^UNemployed^999^student^part-time^
+1345^Male^18^iraq^undergraduate^grow  city center^999^now city center^999^apartment^999^Canada^UNemployed^student^student^full-time^
+1343^Female^18^Caucasian^completed high school^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^UNemployed^999^student^full-time^
+1346^Female^19^Caucasian^some uni^grow  small town^999^now city center^999^building other^Residence^Canada^UNemployed^999^student^full-time^
+1347^Female^21^caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^special events coordinator^student^full-time^
+1348^Female^18^Mixed^some uni^grow  city center^999^now city center^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1350^Male^27^Chinese / Austrian^completed high school^grow  city center^999^now city center^999^detached^999^Canada^employed^Security^student^part-time^
+1351^Female^21^white^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^UNemployed^999^student^full-time^
+1353^Female^18^causasian^completed high school^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^waitress^student^full-time^
+1354^Female^19^East Indian/Caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^UNemployed^Student^student^full-time^
+1355^Male^22^Chinese^some uni^grow  city center^999^now city center^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1357^Male^17^White/Jewish^completed high school^grow  city center^999^now other^On campus^building other^Suite-style single residence ^Canada^UNemployed^999^student^full-time^
+1360^Female^19^caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^retail^student^full-time^
+1359^Male^18^Tamil^some uni^grow  city center^999^now city center^999^detached^999^Canada^employed^student^student^full-time^
+1358^Female^22^caucasian^some uni^grow  small town^999^now city center^999^apartment^999^Canada^employed^Roger\'s Video employee^student^full-time^
+1361^Female^18^999^completed high school^grow  city suburbs^999^now city center^999^apartment^999^Canada^employed^Coach Synchro^student^full-time^
+1363^Female^20^caucasian ^some uni^grow  city center^999^now city center^999^townhouse^999^Canada^employed^cashier^student^full-time^
+1364^Female^24^caucasian^completed college degree^grow  city center^999^now city suburbs^999^townhouse^999^Canada^employed^veterinary technician^student^full-time^
+1366^Female^21^White^completed college degree^grow  small town^999^now small town^999^townhouse^999^Canada^employed^sales clerk^student^full-time^
+1368^Male^19^irish^some uni^grow  city suburbs^999^now city center^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1369^Female^18^African^some high school^grow  city center^999^now city center^999^apartment^999^Canada^UNemployed^student^student^full-time^
+1371^Female^19^egyptian^some uni^grow  city center^999^now city suburbs^999^townhouse^999^Canada^UNemployed^999^student^part-time^
+1175^Male^26^South east asian^completed college degree^grow  city suburbs^999^now rural or farm^999^detached^999^Canada^UNemployed^999^student^full-time^
+1372^Female^21^Caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^office manager^student^full-time^
+1373^Female^25^999^completed college degree^grow  city center^999^999^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1374^Male^31^First Nations^some uni^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^employed^admin assistant^student^full-time^
+1377^Female^56^Canadian^master^grow  city suburbs^999^now city center^999^detached^999^Canada^UNemployed^999^student^part-time^
+1376^Female^20^caucasion^completed high school^grow  rural or farm^999^now rural or farm^999^999^bungalow^Canada^employed^cashier^student^part-time^
+1378^Female^19^Canadian^some uni^grow  small town^999^now city center^999^detached^999^Canada^UNemployed^999^student^full-time^
+1367^Female^22^China^some uni^grow  city center^999^now city center^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1379^Female^20^Caucasian^some uni^grow  other^In low income housing^now city center^999^building other^House^Canada^UNemployed^Student^student^full-time^
+1380^Female^19^Vietnamese^some uni^grow  city center^999^now city suburbs^999^building other^dorm^Canada^UNemployed^999^student^full-time^
+1384^Male^19^white^some uni^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^employed^csr^student^part-time^
+1386^Female^19^Egyptian-Canadian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^Cashier^student^full-time^
+1368^Male^19^irish^some uni^grow  city suburbs^999^now city center^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1387^Male^18^Mixed^completed high school^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1391^Female^23^Causasian ^some uni^grow  small town^999^now city center^999^detached^999^Canada^employed^Babysitter^student^full-time^
+1389^Male^19^White^some uni^grow  city suburbs^999^now city suburbs^999^detached^Residence^Canada^UNemployed^N/A^student^full-time^
+1392^Female^18^Canadian^some uni^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^employed^Barista^student^full-time^
+1393^Female^19^Caucasion^some uni^grow  city suburbs^999^now city center^999^townhouse^999^Canada^employed^Cashier^student^full-time^
+1390^Female^18^caucasian^some uni^grow  small town^999^now city center^999^building other^residence^Canada^UNemployed^999^student^full-time^
+1394^Female^23^Hispanic^some uni^grow  city suburbs^999^now city suburbs^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1396^Male^19^White^some uni^grow  small town^999^now city center^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1385^Female^19^Caucasian^some uni^grow  small town^999^now small town^999^detached^999^Canada^employed^Intructor/Lifeguard^student^part-time^
+1395^Male^20^southeast asian^some uni^grow  small town^999^now city center^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1397^Female^23^Caucasian^some uni^grow  small town^999^now city center^999^apartment^999^Canada^employed^YMCA Coordinator and staff^student^full-time^
+1398^Female^20^Canadian^some uni^grow  city suburbs^999^now city center^999^apartment^999^Canada^employed^Barista^student^part-time^
+1397^Female^23^Caucasian^some uni^grow  small town^999^now city center^999^apartment^999^Canada^employed^YMCA Coordinator and staff^student^full-time^
+1399^Female^24^White^some uni^grow  small town^999^now small town^999^detached^999^Canada^employed^Tutor through the school board^student^part-time^
+1382^Male^23^White^undergraduate^grow  rural or farm^999^now rural or farm^999^detached^999^Canada^employed^Tutor^student^part-time^
+1400^Female^19^caucasian^some uni^grow  small town^999^now city suburbs^999^building other^University Residence^Canada^UNemployed^999^student^full-time^
+1401^Female^21^caucasian^some uni^grow  small town^999^now small town^999^detached^999^Canada^employed^government worker^student^full-time^
+1402^Female^19^caucasian^some uni^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^employed^banquet server^student^full-time^
+1403^Female^18^caucasian ^some uni^grow  city suburbs^999^now city center^999^building other^Residence^Canada^employed^banquet server^student^full-time^
+1404^Female^18^Caucasian^some uni^grow  city suburbs^999^now city center^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1405^Male^20^caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^Bell Canada Telephone Technician^student^full-time^
+1407^Female^21^Filipino^some uni^grow  city suburbs^999^now city center^999^detached^999^Canada^employed^Usher^student^full-time^
+1408^Female^21^caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^fashion consultant^student^full-time^
+1409^Male^22^Caucassion^some uni^grow  small town^999^now city suburbs^999^apartment^999^Canada^UNemployed^Student^student^full-time^
+1383^Female^21^caucasian^some uni^grow  small town^999^now city suburbs^999^townhouse^999^Canada^employed^nanny^student^full-time^
+1413^Female^20^asian^some uni^grow  city center^999^now city center^999^apartment^999^Canada^employed^waitress^student^full-time^
+1412^Female^20^cauasian^some uni^grow  city suburbs^999^now city suburbs^999^apartment^999^Canada^employed^assistant manager^student^part-time^
+1414^Male^22^chinese(manchu)^some uni^grow  city center^999^now city center^999^apartment^999^Canada^employed^waiter^student^part-time^
+1415^Female^19^white^completed high school^grow  city suburbs^999^now city suburbs^999^building other^Carleton University residence^Canada^UNemployed^999^student^full-time^
+1173^Female^19^caucasian^some uni^grow  city center^999^now small town^999^detached^999^Canada^employed^waitress^student^part-time^
+1416^Male^18^caucasian^completed high school^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^manager, refined general store^student^full-time^
+1417^Male^19^SYRIAN^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^SALES PERSON^student^full-time^
+1420^Female^17^Chinese^some uni^grow  city center^999^now city suburbs^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1421^Male^22^chinese^some uni^grow  city center^999^now city suburbs^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1381^Male^34^caucasian^some uni^grow  city center^999^now city center^999^apartment^999^Canada^employed^server^student^full-time^
+1422^Female^18^african-canadian^some uni^grow  city suburbs^999^now city center^999^building other^university residence ^Canada^employed^customer service representative^student^part-time^
+1423^Male^22^Canadian^some uni^grow  city center^999^now city center^999^detached^999^Canada^employed^waiter^student^part-time^
+1424^Male^25^white^some uni^grow  small town^999^now small town^999^townhouse^999^Canada^UNemployed^unemployed^student^full-time^
+1425^Female^24^caucasian^completed college degree^grow  small town^999^now city center^999^apartment^999^Canada^employed^server/childcare^student^full-time^
+1426^Female^18^black^some uni^grow  city center^999^now city center^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1429^Female^18^white^some uni^grow  city suburbs^999^now city center^999^building other^residence^Canada^UNemployed^student^student^full-time^
+1430^Female^18^caucasion^some uni^grow  small town^999^now city suburbs^999^building other^residence^Canada^UNemployed^999^student^full-time^
+1431^Female^26^white^some uni^grow  small town^999^now city suburbs^999^townhouse^999^Canada^employed^Personal Support Worker and Childcare councellor^student^full-time^
+1432^Female^19^caucasion^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^retail^student^full-time^
+1433^Female^43^white^some uni^grow  city suburbs^999^now city center^999^townhouse^999^Canada^employed^administrative assistant^student^part-time^
+1435^Female^17^Indian/Sikh^some uni^grow  city center^999^now city center^999^detached^999^Canada^employed^Supervisor/Cashier^student^part-time^
+1438^Male^18^Bi-racial(Portuguese/Carribean)^some uni^grow  small town^999^now city center^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1437^Female^30^Caucasian^some uni^grow  small town^999^now city center^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1439^Female^19^Caucasian^some uni^grow  small town^999^now city suburbs^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1440^Female^19^white^some uni^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^employed^Booster Juice crew member^student^full-time^
+1441^Male^24^Irish-English^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^Underground Construction^student^part-time^
+1443^Female^18^Somali^completed high school^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^employed^child counsellor^student^full-time^
+1446^Female^23^caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^tutor^student^full-time^
+1447^Female^19^Caucasian^some uni^grow  city suburbs^999^now city suburbs^999^building other^University Residence^Canada^employed^Sales Associate^student^part-time^
+1411^Female^20^Caucasian^some uni^grow  small town^999^now city center^999^townhouse^999^Canada^employed^bed department sales representative IKEA^student^full-time^
+1449^Female^18^Caucasian^some uni^grow  rural or farm^999^now city center^999^building other^dormatory residence^Canada^UNemployed^999^student^full-time^
+1450^Male^19^Syria^completed high school^grow  city center^999^now city suburbs^999^apartment^999^Canada^employed^Employee^student^part-time^
+1388^Female^17^Asian^completed high school^grow  city suburbs^999^now city center^999^building other^residence on campus^Canada^UNemployed^999^student^full-time^
+1451^Female^18^caucasian^some uni^grow  city suburbs^999^now city center^999^building other^residence^Canada^UNemployed^student^student^full-time^
+1452^Male^22^chinese^completed high school^grow  city suburbs^999^now city center^999^apartment^999^Canada^employed^dish washer^student^full-time^
+1453^Female^19^Caucasian^some uni^grow  city center^999^now city center^999^apartment^999^Canada^employed^Bakery Clerk^student^full-time^
+1418^Female^22^chinese^completed high school^grow  city center^999^now city center^999^townhouse^999^Canada^employed^waitress^student^full-time^
+1428^Male^20^White^completed high school^grow  small town^999^now city center^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1459^Female^29^white^completed college degree^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^employed^customer service^student^full-time^
+1460^Male^20^middle eastern^some uni^grow  city center^999^now city center^999^townhouse^999^Canada^UNemployed^-^student^full-time^
+1461^Male^18^Caucasian^completed college degree^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^employed^Cashier^student^full-time^
+1460^Male^20^middle eastern^some uni^grow  city center^999^now city center^999^townhouse^999^Canada^UNemployed^-^student^full-time^
+1462^999^20^jamaican chinese^completed high school^grow  city suburbs^999^now city center^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1463^Female^19^Caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^Retail^student^part-time^
+1464^Female^18^white^completed high school^grow  city suburbs^999^now city suburbs^999^building other^residence ^Canada^UNemployed^999^student^full-time^
+1466^Female^18^Caucasian^some uni^grow  city suburbs^999^now city suburbs^999^building other^University Residence^Canada^UNemployed^Student^student^full-time^
+1467^Female^18^caucasian^completed high school^grow  city suburbs^999^now city center^999^building other^university residence^Canada^UNemployed^999^student^full-time^
+1468^Female^19^Caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^GoodLife Associate^student^part-time^
+1471^Female^19^Caucasian^some uni^grow  small town^999^now city suburbs^999^detached^999^Canada^UNemployed^999^student^full-time^
+1475^Female^26^Caucasian^some uni^grow  city suburbs^999^now city center^999^apartment^999^Canada^employed^Administrative Coordinator^student^part-time^
+1477^Female^19^Caucasion^some uni^grow  small town^999^now city center^999^building other^residence^Canada^employed^Supervisor^student^full-time^
+1478^Male^19^Caucasian^some uni^grow  rural or farm^999^now rural or farm^999^detached^999^Canada^employed^Busser^student^full-time^
+1480^Male^19^caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^sales associate^student^full-time^
+1481^Female^29^italian/estonian^completed college degree^grow  small town^999^now city center^999^detached^999^Canada^employed^server/supply teacher^student^full-time^
+1482^Female^19^romanian^some uni^grow  city center^999^now city center^999^townhouse^999^Canada^employed^receptionist/ ta^student^part-time^
+1483^Male^21^French-Canadian^some uni^grow  city suburbs^999^now rural or farm^999^detached^999^Canada^employed^Telemarketer^student^full-time^
+1406^Male^18^Caucasian^some uni^grow  city center^999^now city center^999^detached^999^Canada^employed^retail^student^part-time^
+1485^Male^21^Canadian^completed high school^grow  city suburbs^999^now city center^999^apartment^999^Canada^UNemployed^Student^student^full-time^
+1486^Male^22^Canadian^some uni^grow  city suburbs^999^now rural or farm^999^detached^999^Canada^UNemployed^Student^student^full-time^
+1488^Female^21^Caucasian/Maltese^some uni^grow  small town^999^now city center^999^detached^999^Canada^employed^NRCan Energy Audits^student^part-time^
+1481^Female^29^999^completed college degree^grow  small town^999^now city center^999^detached^999^Canada^employed^supply teacher/server^student^full-time^
+1491^Female^19^Caucasian^some uni^grow  small town^999^now city suburbs^999^apartment^999^Canada^employed^Recreational Instructor^student^part-time^
+1493^Female^19^Cocasian^some uni^grow  small town^999^now city suburbs^999^apartment^999^Canada^employed^LTPA instructor ^student^full-time^
+1492^Female^18^caucasian^some uni^grow  city suburbs^999^now city suburbs^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1490^Female^18^Canadian/Greek/Scottish^some uni^grow  city suburbs^999^now city center^999^999^residence^Canada^employed^hotel waitress^student^full-time^
+1487^Male^20^Black^some uni^grow  city suburbs^999^now city center^999^detached^999^Canada^employed^Front Desk at a hotel^student^full-time^
+1494^Female^18^caucasian^some uni^grow  city suburbs^999^now city center^999^building other^residence ^Canada^UNemployed^student^student^full-time^
+1495^Female^18^arabic^some uni^grow  city center^999^now city center^999^townhouse^999^Canada^employed^market researcher^student^full-time^
+1496^Male^21^Iranian^completed high school^grow  city suburbs^999^now city center^999^detached^999^Canada^UNemployed^999^student^full-time^
+1469^Male^18^Caucasion^completed high school^grow  city suburbs^999^now city center^999^building other^Residence^Canada^UNemployed^999^student^full-time^
+1497^Female^19^caucasian^some uni^grow  city suburbs^999^now city suburbs^999^apartment^999^Canada^employed^salesperson^student^full-time^
+1497^Female^19^caucasian^some uni^grow  city suburbs^999^now city suburbs^999^apartment^999^Canada^employed^salesperson^student^full-time^
+1499^Female^19^Afghani^some uni^grow  city suburbs^999^now city suburbs^999^building other^Single house^Canada^employed^Assistant Manager^student^full-time^
+1500^Male^18^lebanese^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^server^student^full-time^
+1501^Male^18^Caucasian ^completed high school^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^Part-time at HMV^student^part-time^
+1502^Male^18^Caucasian^some uni^grow  city center^999^now city center^999^detached^999^Canada^employed^Lifeguard/Swim instructor^student^full-time^
+1356^Male^18^East Asian^completed high school^grow  city center^999^now city suburbs^999^detached^999^Canada^UNemployed^Student^student^full-time^
+1458^Male^18^Black^completed high school^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^employed^Cashier^student^part-time^
+1362^Female^18^hispanic^some uni^grow  small town^999^now city suburbs^999^999^residence^Canada^UNemployed^999^student^full-time^
+1175^Male^26^asian^completed college degree^grow  city suburbs^999^now rural or farm^999^detached^999^Canada^UNemployed^999^student^full-time^
+1175^Male^25^asian^completed college degree^grow  city suburbs^999^now rural or farm^999^detached^999^Canada^UNemployed^999^student^full-time^
+1503^Female^20^caucasian^some uni^grow  small town^999^now city center^999^apartment^999^Canada^UNemployed^student^student^full-time^
+1274^Male^20^White^completed high school^grow  city center^999^now city center^999^townhouse^999^Canada^employed^Car Detailer^student^full-time^
+1128^Female^18^canadian^some uni^grow  city center^999^now city center^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1504^Female^22^caucasian^some uni^grow  city suburbs^999^now city suburbs^999^apartment^999^Canada^employed^food and beverage server/ student^student^full-time^
+1476^Male^23^mixed (mostly hispanic)^some uni^grow  city center^999^now city center^999^detached^999^Canada^employed^library book stacker^student^full-time^
+1373^Female^25^China^completed college degree^grow  city center^999^now city center^999^apartment^999^Canada^UNemployed^Student^student^full-time^
+1506^Female^20^999^some uni^grow  city suburbs^999^now city suburbs^999^apartment^999^Canada^employed^Bartender/Server^student^part-time^
+1507^Male^20^ASIAN^some uni^grow  city center^999^now city suburbs^999^apartment^999^Canada^employed^student^student^full-time^
+1508^Male^21^Caucasian^some uni^grow  small town^999^now city suburbs^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1125^Female^22^northern european canadian^some uni^grow  other^I don\'t know if Westboro would be considered urban or suburban...^now city center^999^townhouse^999^Canada^employed^massage attendant^student^full-time^
+1338^Male^18^Caucasian^some uni^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1479^Male^18^Lebanese^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^server^student^part-time^
+1329^Female^19^caucasian^some uni^grow  city center^999^now city center^999^townhouse^999^Canada^employed^sales associate^student^full-time^
+1511^Female^20^White^some uni^grow  small town^999^now city center^999^apartment^999^Canada^UNemployed^999^student^part-time^
+1514^Female^18^Caucasian^completed high school^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^employed^Student^student^full-time^
+1328^Male^19^Caucasian^completed high school^grow  small town^999^now city center^999^detached^999^Canada^UNemployed^999^student^full-time^
+1506^Female^20^Indian^some uni^grow  city suburbs^999^now city suburbs^999^apartment^999^Canada^employed^Bartender/Server^student^part-time^
+1521^Female^18^Caucasian ^some uni^grow  small town^999^now city suburbs^999^building other^university residence ^Canada^UNemployed^999^student^full-time^
+1498^Male^20^caucasian^some uni^grow  other^europe^now city center^999^detached^999^Canada^employed^waiter^student^full-time^
+1525^Female^19^caucasian^some uni^grow  small town^999^now city suburbs^999^building other^residence/dorm^Canada^UNemployed^999^student^full-time^
+1513^Female^26^canadian^completed high school^grow  city suburbs^999^999^999^apartment^999^Canada^999^Patient Service Clerk^student^full-time^
+1523^Female^21^asian^some uni^grow  city center^999^now city center^999^townhouse^999^Canada^employed^Web Developer^student^part-time^
+1528^Male^19^Causian^some uni^grow  small town^999^now small town^999^detached^999^Canada^UNemployed^999^student^full-time^
+1531^Female^19^chinese^some uni^grow  city suburbs^999^now city center^999^detached^999^Canada^999^administrator^student^full-time^
+1532^Male^17^African^some uni^grow  city center^999^now city center^999^townhouse^999^Canada^employed^Community worker^student^full-time^
+1534^Female^18^chinese^completed high school^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^UNemployed^999^student^full-time^
+1170^Female^22^Asian^some uni^grow  city center^999^now city center^999^townhouse^999^Canada^employed^Web Master^student^full-time^
+1116^Male^22^caucasian^some uni^grow  city center^999^now city center^999^detached^999^Canada^UNemployed^999^student^full-time^
+1130^Female^28^white^some uni^grow  city center^999^now small town^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1205^Female^22^caucasian^some uni^grow  rural or farm^999^now rural or farm^999^detached^999^Canada^employed^hcw^student^full-time^
+1536^Female^21^Caucasian^some uni^grow  small town^999^now city center^999^townhouse^999^Canada^employed^Security Guard^student^part-time^
+1538^Male^60^Canadian^completed high school^grow  small town^999^now city suburbs^999^townhouse^999^Canada^UNemployed^Retired^not student^999^
+1537^Female^21^half finnish, half-indian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^UNemployed^student^student^full-time^
+1540^999^999^999^999^999^999^999^999^999^999^Canada^999^999^999^999^
+1541^Female^66^Scottish^completed high school^grow  small town^999^now small town^999^townhouse^999^Canada^UNemployed^Retired^not student^999^
+1539^Female^27^caucasian^completed college degree^grow  small town^999^now small town^999^detached^999^Canada^employed^Early Childhood educator^not student^part-time^
+1545^Female^50^caucasian^PhD^grow  small town^999^now city center^999^detached^999^United States of America^employed^professor^not student^full-time^
+1546^Female^25^Canadian^master^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^UNemployed^999^student^full-time^
+1547^Female^33^caucasian^undergraduate^grow  city suburbs^999^now city suburbs^999^townhouse^999^Canada^employed^communications officer^not student^full-time^
+1548^Female^25^White^master^grow  city suburbs^999^now city center^999^detached^999^Canada^employed^lecturer/TA/RA^student^full-time^
+1549^Male^29^Caucasian^master^grow  small town^999^now city center^999^townhouse^999^Canada^employed^Research Consultant^not student^full-time^
+1551^Female^26^Caucasian^undergraduate^grow  city suburbs^999^now city center^999^apartment^999^Canada^employed^Legal assistant^not student^full-time^
+1553^Female^29^Anglo^completed high school^grow  rural or farm^999^now small town^999^building other^upstairs from my business^Australia^employed^Self Employed^not student^full-time^
+1556^Male^27^white^some uni^grow  city center^999^now city center^999^apartment^999^United Kingdom^UNemployed^999^student^full-time^
+1558^Female^25^caucasion^completed college degree^grow  city center^999^now city center^999^apartment^999^Canada^UNemployed^999^student^full-time^
+1561^Female^26^Asian^undergraduate^grow  city suburbs^999^now small town^999^apartment^999^United States of America^UNemployed^999^student^part-time^
+1567^Male^54^Caucasian (Irish)^master^grow  city suburbs^999^now rural or farm^999^detached^999^Ireland^UNemployed^999^not student^999^
+1543^Female^49^caucasian^undergraduate^grow  city suburbs^999^now city suburbs^999^apartment^999^Canada^UNemployed^homemaker^not student^999^
+1568^Female^24^white^undergraduate^grow  small town^999^now city suburbs^999^townhouse^999^United Kingdom^UNemployed^999^student^full-time^
+1570^Female^52^Australian^undergraduate^grow  rural or farm^999^now city suburbs^999^detached^999^Australia^employed^Public servant/nurse^student^part-time^
+1572^Male^39^white^some high school^grow  city center^999^now city suburbs^999^apartment^999^United Kingdom^employed^handyman^not student^full-time^
+1565^Female^21^Anglo-Saxon^undergraduate^grow  small town^999^now city center^999^townhouse^999^Australia^employed^Hospitality ^student^full-time^
+1577^Male^47^Anglo Maltese^master^grow  city suburbs^999^now city suburbs^999^detached^999^Australia^employed^Management Consultant^not student^full-time^
+1581^Female^38^Caucasian^undergraduate^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^UNemployed^Social Services Worker^not student^999^
+1588^Female^31^Chinese^undergraduate^grow  city center^999^now city suburbs^999^building other^semi-detached house^Canada^employed^cashier^student^part-time^
+1590^Male^29^Asian^master^grow  city center^999^now small town^999^apartment^999^Canada^UNemployed^student^student^full-time^
+1594^Female^23^vancouver^completed college degree^grow  small town^999^now city center^999^apartment^999^Canada^employed^Admin/ reception^student^full-time^
+1596^Female^18^caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^United States of America^UNemployed^999^student^part-time^
+1597^Male^39^999^completed college degree^grow  city center^999^now city center^999^apartment^999^Canada^UNemployed^999^not student^999^
+1600^Female^28^Asian^PhD^grow  city suburbs^999^now city center^999^apartment^999^United States of America^employed^research^not student^full-time^
+1601^Female^62^New Zealander^some uni^grow  city suburbs^999^now rural or farm^999^detached^999^New Zealand^employed^English teacher^not student^part-time^
+1604^Female^20^Korean^completed high school^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^UNemployed^ESL student^student^part-time^
+1606^Female^39^999^some high school^grow  rural or farm^999^now city suburbs^999^townhouse^999^Canada^employed^csr^not student^part-time^
+1607^Male^20^Caucasian^some uni^grow  city suburbs^999^now city center^999^apartment^999^United Kingdom^UNemployed^Student^student^full-time^
+1609^Female^52^NZer^undergraduate^grow  city suburbs^999^now rural or farm^999^detached^999^New Zealand^employed^teacher^not student^part-time^
+1612^Female^24^New Zealand European^undergraduate^grow  rural or farm^999^now city center^999^apartment^999^New Zealand^employed^lawyer^not student^full-time^
+1614^Female^18^scottish^some uni^grow  small town^999^now city suburbs^999^building other^hall^United Kingdom^UNemployed^student^student^full-time^
+1602^Female^56^Caucasian^undergraduate^grow  small town^999^now city suburbs^999^apartment^999^Canada^employed^Administrative Assistant^not student^full-time^
+1616^Female^19^irish, scottish, german^some high school^grow  city center^999^now city center^999^apartment^999^Canada^UNemployed^999^not student^999^
+1618^Male^24^new zealand - european^trade^grow  small town^999^now city suburbs^999^detached^999^New Zealand^employed^kitchen hand^not student^part-time^
+1619^Female^45^caucasian/native american^trade^grow  small town^999^now other^Island^detached^999^United States of America^UNemployed^999^not student^999^
+1620^Male^20^white^some uni^grow  city suburbs^999^now city suburbs^999^townhouse^999^New Zealand^employed^student engineer^student^full-time^
+1625^Male^33^white^master^grow  city suburbs^999^now small town^999^detached^999^United States of America^employed^publishing^student^full-time^
+1628^Female^61^caucasian^master^grow  small town^999^now city suburbs^999^detached^999^United States of America^employed^speech pathologist and trainer^not student^full-time^
+1630^Female^25^new zealand eurpoean^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^New Zealand^employed^receptionist^not student^full-time^
+1631^Female^21^New Zealand^undergraduate^grow  rural or farm^999^now small town^999^detached^999^New Zealand^employed^Food scientist^student^part-time^
+1633^Female^43^Spaniard^trade^grow  city center^999^now small town^999^townhouse^999^Spain^employed^Technical^not student^full-time^
+1634^Male^54^Italian/Irish^completed college degree^grow  city center^999^now small town^999^detached^999^United States of America^UNemployed^Former Banker^not student^999^
+1637^Male^23^White/Caucasian^completed high school^grow  city center^999^now city suburbs^999^apartment^999^Canada^employed^Cashier^not student^part-time^
+1638^Female^18^hispanic^some high school^grow  city suburbs^999^now city suburbs^999^999^Ranch^United States of America^employed^McDonalds^student^part-time^
+1641^Female^29^white^some uni^grow  rural or farm^999^now city suburbs^999^apartment^999^United States of America^UNemployed^999^student^full-time^
+1644^Female^19^white^some uni^grow  small town^999^now small town^999^building other^trailer^United States of America^employed^sales associate^student^full-time^
+1645^Female^22^Caucasian^completed high school^grow  city suburbs^999^now city suburbs^999^detached^999^Australia^employed^bar work^student^full-time^
+1646^Male^18^white^some high school^grow  city center^999^now city suburbs^999^detached^999^United States of America^employed^crew trainer^student^full-time^
+1636^Female^34^white^completed high school^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^UNemployed^none^student^full-time^
+1636^Female^34^white^completed high school^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^UNemployed^999^student^full-time^
+1648^Female^23^white^some uni^grow  city suburbs^999^now city suburbs^999^apartment^999^United States of America^employed^cna^student^full-time^
+1653^Female^33^mixed, mostly white^undergraduate^grow  small town^999^now city suburbs^999^detached^999^Australia^UNemployed^999^student^part-time^
+1640^Male^64^white^trade^grow  city suburbs^999^now city suburbs^999^detached^999^New Zealand^employed^captain^not student^part-time^
+1632^Female^30^Caucasian^completed college degree^grow  small town^999^now small town^999^detached^999^Canada^employed^Admin Assistant^student^part-time^
+1656^Female^19^white^completed high school^grow  rural or farm^999^now small town^999^apartment^999^United States of America^UNemployed^999^student^full-time^
+1657^Male^29^Caucasian^undergraduate^grow  city suburbs^999^now city suburbs^999^apartment^999^Australia^employed^Educator, team leader^not student^full-time^
+1659^Female^18^caucasian^some uni^grow  small town^999^now small town^999^detached^999^Canada^UNemployed^999^student^999^
+1660^Female^28^New Zealand European^undergraduate^grow  rural or farm^999^now city suburbs^999^detached^999^New Zealand^employed^Project Manager/Administrator^not student^full-time^
+1076^Male^50^from dean^999^999^999^999^999^999^999^Canada^999^999^999^999^
+1665^Female^18^Caucasian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^UNemployed^999^not student^999^
+1666^Female^21^chinese^completed high school^grow  city center^999^now city suburbs^999^apartment^999^Canada^employed^csr^student^full-time^
+1667^Female^26^white and jewish^undergraduate^grow  city center^999^now small town^999^detached^999^United States of America^employed^teacher^not student^part-time^
+1669^Male^37^whitey^undergraduate^grow  city suburbs^999^now other^beach^detached^999^New Zealand^employed^Television Director^not student^full-time^
+1672^Female^38^New Zealander^completed high school^grow  city suburbs^999^now small town^999^detached^999^New Zealand^employed^checkout supervisor^student^part-time^
+1673^Male^28^White British^some uni^grow  rural or farm^999^now rural or farm^999^detached^999^United Kingdom^UNemployed^999^not student^999^
+1675^Male^24^Caucasian ^undergraduate^grow  rural or farm^999^now rural or farm^999^detached^999^United Kingdom^employed^Artist^not student^999^
+1676^Male^31^filipino^trade^grow  city suburbs^999^now city suburbs^999^detached^999^United States of America^employed^logistics operation^student^part-time^
+1679^Male^32^indian^undergraduate^grow  city suburbs^999^now city suburbs^999^apartment^999^Singapore^UNemployed^999^not student^full-time^
+1683^Female^24^malay^completed high school^grow  small town^999^now city suburbs^999^apartment^999^Qatar^employed^cabin crew^not student^full-time^
+1685^Female^50^european^master^grow  small town^999^now city suburbs^999^detached^999^New Zealand^employed^consultant^not student^999^
+1670^Female^34^European^undergraduate^grow  city suburbs^999^now city suburbs^999^detached^999^New Zealand^employed^Marketer^not student^full-time^
+1689^Female^22^Catholic^some uni^grow  other^Caribbean^now other^Canada^apartment^999^Canada^employed^Sales Associate^student^full-time^
+1694^Female^28^NZ European^trade^grow  city suburbs^999^now rural or farm^999^building other^small cottage^New Zealand^UNemployed^999^not student^999^
+1682^Female^49^Caucasian^completed college degree^grow  city suburbs^999^now city suburbs^999^detached^999^United States of America^employed^Caregiver^not student^999^
+1697^Female^25^New Zealander^undergraduate^grow  small town^999^now city center^999^apartment^999^New Zealand^employed^Software Engineer^not student^full-time^
+1698^Female^35^white person^some high school^grow  city suburbs^999^now city suburbs^999^detached^999^New Zealand^employed^kitchenhand^not student^999^
+1699^Female^34^Australian^undergraduate^grow  city suburbs^999^now city suburbs^999^detached^999^New Zealand^UNemployed^Mother^student^part-time^
+1692^Female^22^Caucasian^undergraduate^grow  city suburbs^999^now city suburbs^999^building other^university residences^United Kingdom^UNemployed^999^student^full-time^
+1704^Female^21^british^some uni^grow  other^large town^now small town^999^building other^flat^United Kingdom^employed^part time lifeguard^student^full-time^
+1705^Female^45^white^completed college degree^grow  other^army bases^now city suburbs^999^apartment^999^Canada^employed^television^not student^full-time^
+1707^Female^51^white^some uni^grow  rural or farm^999^now rural or farm^999^detached^999^United States of America^employed^self employed^not student^part-time^
+1691^Female^30^European^undergraduate^grow  rural or farm^999^now city center^999^detached^999^New Zealand^employed^telephone interviewer^not student^part-time^
+1713^Male^33^Caucasian^master^grow  city suburbs^999^now city center^999^detached^999^New Zealand^employed^Policital advisor^not student^full-time^
+1714^Female^29^Latino^some uni^grow  city center^999^now city center^999^apartment^999^United States of America^employed^Payroll Coordinator^student^full-time^
+1695^Female^25^European^undergraduate^grow  city suburbs^999^now city suburbs^999^townhouse^999^New Zealand^employed^advertising sales co-ordinator^not student^full-time^
+1720^Male^20^white^completed college degree^grow  city suburbs^999^now city suburbs^999^detached^999^United States of America^employed^Airline Pilot^student^full-time^
+1662^Female^23^australian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Australia^UNemployed^999^not student^999^
+1723^Female^21^European^some high school^grow  city suburbs^999^now rural or farm^999^detached^999^New Zealand^UNemployed^999^not student^999^
+1724^Female^22^Caucasian^completed high school^grow  city suburbs^999^now rural or farm^999^detached^999^New Zealand^UNemployed^Full time mom^not student^full-time^
+1725^Female^51^caucasian^undergraduate^grow  city suburbs^999^now city suburbs^999^building other^own home^United States of America^employed^Registered Nurse^not student^full-time^
+1731^Female^48^white^undergraduate^grow  city suburbs^999^now city center^999^detached^999^United States of America^UNemployed^project manager^not student^999^
+1635^Female^26^White^undergraduate^grow  small town^999^now city suburbs^999^apartment^999^United States of America^employed^care giver for mentally retarded adults^student^full-time^
+1733^Female^29^cookisland/maori^some high school^grow  small town^999^now rural or farm^999^detached^999^New Zealand^UNemployed^home maker^not student^999^
+1736^Female^20^New Zealand European^completed college degree^grow  city suburbs^999^now city suburbs^999^detached^999^New Zealand^UNemployed^999^student^full-time^
+1739^Female^37^British^PhD^grow  rural or farm^999^now rural or farm^999^detached^999^New Zealand^UNemployed^Primary Teacher^not student^999^
+1741^Female^44^white^undergraduate^grow  small town^999^now small town^999^detached^999^United States of America^employed^web design^not student^part-time^
+1746^Female^41^European^undergraduate^grow  rural or farm^999^now city center^999^townhouse^999^New Zealand^employed^Chief Finance Officer^not student^full-time^
+1749^Female^43^white^completed college degree^grow  rural or farm^999^now rural or farm^999^detached^999^United States of America^employed^tile^not student^part-time^
+1750^Female^19^white^completed high school^grow  city suburbs^999^now city suburbs^999^building other^dorm^United States of America^employed^tutor^student^full-time^
+1752^Female^32^NZ European^completed college degree^grow  small town^999^now city suburbs^999^detached^999^New Zealand^employed^Public Servant^not student^full-time^
+1753^Female^18^New Zealand European^completed high school^grow  small town^999^now city center^999^apartment^999^New Zealand^UNemployed^999^student^full-time^
+1751^Female^35^british welsh^trade^grow  small town^999^now small town^999^detached^999^United Kingdom^UNemployed^mum^not student^full-time^
+1754^Female^31^European^trade^grow  city suburbs^999^now city suburbs^999^detached^999^New Zealand^UNemployed^House executive^not student^full-time^
+1737^Female^31^New Zealander^master^grow  city center^999^now city center^999^apartment^999^New Zealand^employed^Librarian^not student^part-time^
+1737^Female^31^New Zealander^master^grow  city center^999^now city center^999^apartment^999^New Zealand^employed^Librarian^not student^part-time^
+1759^Female^28^European^some uni^grow  rural or farm^999^now city suburbs^999^detached^999^New Zealand^employed^receptionist^not student^full-time^
+1761^Female^33^Chinese^master^grow  city suburbs^999^now city suburbs^999^detached^999^New Zealand^employed^Engineer^not student^full-time^
+1767^Male^20^European^some uni^grow  city suburbs^999^now city suburbs^999^building other^standard house^New Zealand^employed^IT^student^full-time^
+1765^Female^20^mix^some high school^grow  city suburbs^999^now city suburbs^999^detached^999^New Zealand^employed^dataentry clerk^not student^full-time^
+1769^Female^50^white^some high school^grow  rural or farm^999^now small town^999^999^semi detached house^United Kingdom^employed^retail^not student^part-time^
+1770^Male^19^NZ European^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^New Zealand^UNemployed^999^student^full-time^
+1721^Female^22^European/New Zealander^undergraduate^grow  city suburbs^999^now city center^999^apartment^999^New Zealand^employed^Print Finisher^not student^full-time^
+1773^Male^35^Caucasian^undergraduate^grow  city suburbs^999^now small town^999^detached^999^New Zealand^employed^Pastor^student^full-time^
+1774^Female^28^british^completed high school^grow  small town^999^now small town^999^townhouse^999^New Zealand^UNemployed^999^not student^999^
+1775^Female^24^Egyptian American^undergraduate^grow  city suburbs^999^now city suburbs^999^detached^999^United States of America^employed^Behaviorist^student^full-time^
+1776^Female^20^European^completed high school^grow  city suburbs^999^now city suburbs^999^detached^999^New Zealand^employed^Customer Services^not student^full-time^
+1778^Female^21^Asian^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^Canada^UNemployed^999^student^full-time^
+1779^Female^47^caucasion^some uni^grow  city suburbs^999^now small town^999^detached^999^United States of America^UNemployed^999^student^full-time^
+1783^Female^24^NZ European^undergraduate^grow  city suburbs^999^now city center^999^building other^unit^New Zealand^employed^support worker^student^full-time^
+1785^Female^18^NZ European^completed high school^grow  city suburbs^999^now city suburbs^999^townhouse^999^Australia^UNemployed^999^not student^999^
+1784^Female^26^caucasian^undergraduate^grow  city suburbs^999^now city suburbs^999^building other^rented house ^New Zealand^employed^waitress^student^full-time^
+1786^Female^22^NZ European^some uni^grow  rural or farm^999^now city suburbs^999^detached^999^New Zealand^employed^Sales Rep^student^full-time^
+1788^Female^36^European^some high school^grow  small town^999^now city suburbs^999^detached^999^New Zealand^employed^Home Support Worker^not student^part-time^
+1790^Female^28^caucasian^master^grow  city suburbs^999^now city suburbs^999^apartment^999^United States of America^employed^therapist^not student^full-time^
+1792^Male^20^European^some uni^grow  small town^999^now city suburbs^999^building other^Flat^New Zealand^UNemployed^Student^student^full-time^
+1794^Female^24^Asian^undergraduate^grow  city suburbs^999^now city suburbs^999^detached^999^New Zealand^employed^IT Coordinator^not student^full-time^
+1795^Female^19^European^some uni^grow  city suburbs^999^now city center^999^building other^flat^New Zealand^UNemployed^999^student^full-time^
+1796^Female^24^nz european^some high school^grow  small town^999^now city suburbs^999^detached^999^New Zealand^UNemployed^mother^not student^999^
+1797^Male^16^Caucasion^some high school^grow  city suburbs^999^now city suburbs^999^detached^999^Australia^UNemployed^Student^student^full-time^
+1798^Female^18^Australian^completed high school^grow  city suburbs^999^now city suburbs^999^detached^999^Australia^employed^Assistant Manager Hungry Jacks^student^full-time^
+1801^Female^28^European^undergraduate^grow  city suburbs^999^now city suburbs^999^detached^999^New Zealand^employed^Environmental Economist^student^part-time^
+1793^Female^38^European/NZ^undergraduate^grow  city suburbs^999^now city suburbs^999^detached^999^New Zealand^employed^Trainer^not student^full-time^
+1802^Male^31^Caucasian^some uni^grow  rural or farm^999^now rural or farm^999^building other^cottage^New Zealand^employed^Systems Engineer^not student^full-time^
+1804^Male^33^caucasian/Maori^undergraduate^grow  city suburbs^999^now city center^999^townhouse^999^New Zealand^employed^Exhibition Project Manager^not student^full-time^
+1805^Female^18^Pacific Islander^completed high school^grow  city suburbs^999^now city suburbs^999^detached^999^New Zealand^employed^Receptionist^student^part-time^
+1787^Female^22^Eurasian^some uni^grow  city suburbs^999^now city center^999^townhouse^999^New Zealand^employed^cust service^not student^full-time^
+1808^Female^54^Finnish^undergraduate^grow  rural or farm^999^now city suburbs^999^detached^999^Canada^UNemployed^home maker^not student^999^
+1809^Female^23^999^trade^grow  small town^999^now rural or farm^999^999^Cattage^New Zealand^UNemployed^Mother^not student^999^
+1810^Male^37^New Zealander^undergraduate^grow  city suburbs^999^now city center^999^apartment^999^New Zealand^UNemployed^999^not student^999^
+1811^Male^43^caucasian^undergraduate^grow  small town^999^now city suburbs^999^detached^999^New Zealand^employed^Business consultant^not student^full-time^
+1813^Female^19^NZ european^some uni^grow  city suburbs^999^now city suburbs^999^building other^normal house^New Zealand^employed^Gymnastics coach^student^full-time^
+1815^Female^34^European^some uni^grow  city suburbs^999^now city suburbs^999^building other^semi-detached house^New Zealand^employed^Project Manager^not student^full-time^
+1817^Female^41^european^some high school^grow  city suburbs^999^now city suburbs^999^detached^999^New Zealand^UNemployed^housewife^not student^999^
+1807^Female^31^european^master^grow  small town^999^now other^small city (pop 40,000)^detached^999^New Zealand^employed^self employed photographer^not student^full-time^
+1822^Female^20^European^some uni^grow  small town^999^now city suburbs^999^detached^999^New Zealand^employed^Checkout operator^student^full-time^
+1823^Male^18^caucasian^completed high school^grow  city suburbs^999^now city suburbs^999^detached^999^New Zealand^UNemployed^Student^student^full-time^
+1772^Female^23^mixed^completed high school^grow  small town^999^now city suburbs^999^detached^999^Canada^employed^secretary, server, model^not student^part-time^
+1821^Male^33^New Zealand Maori^completed high school^grow  small town^999^now city suburbs^999^detached^999^New Zealand^999^Security Ops Manager^not student^full-time^
+1826^Male^36^English^some uni^grow  rural or farm^999^now other^village, sattelite to city^detached^999^New Zealand^UNemployed^999^not student^full-time^
+1827^Male^36^Caucasian^undergraduate^grow  small town^999^now city center^999^townhouse^999^New Zealand^employed^Company Manager^not student^999^
+1748^Male^23^NZ euro^some uni^grow  city suburbs^999^now city suburbs^999^detached^999^New Zealand^employed^Part time youth guidance counsellor^student^full-time^
+1830^Female^20^New Zealander^some uni^grow  city center^999^now city center^999^detached^999^New Zealand^employed^Accounts^student^full-time^
+1833^Female^18^Chinese^completed high school^grow  city suburbs^999^now city center^999^building other^student residence^Canada^UNemployed^student^student^full-time^
+1803^Female^32^European / Caucasian ^undergraduate^grow  city suburbs^999^now city center^999^detached^999^New Zealand^employed^Nurse^not student^full-time^
+1803^Female^32^European / Caucasian ^undergraduate^grow  city suburbs^999^now city center^999^detached^999^New Zealand^employed^Nurse^not student^full-time^
+1836^Female^28^african american ^completed high school^grow  city center^999^now city center^999^apartment^999^United States of America^employed^receptionist ^not student^part-time^
+1828^Female^48^german^completed high school^grow  city suburbs^999^now rural or farm^999^detached^999^Canada^employed^homemaker /business co-owner^not student^part-time^
+1834^Female^31^caucasian ^completed high school^grow  other^small town and rural^now city center^999^apartment^999^Canada^UNemployed^999^not student^999^
+1838^Male^18^European^completed high school^grow  city suburbs^999^now city suburbs^999^detached^999^New Zealand^employed^After school care supervisor ^student^full-time^
+1839^Female^25^hispanic^completed high school^grow  city center^999^now small town^999^building other^mobile home^United States of America^UNemployed^homemaker^not student^full-time^
+1840^Female^22^Euroupen^some high school^grow  rural or farm^999^now city suburbs^999^detached^999^New Zealand^employed^Claims Advisor^not student^full-time^
+1846^Female^20^white^completed college degree^grow  city suburbs^999^now city suburbs^999^townhouse^999^United States of America^UNemployed^full-time student^student^full-time^
+1844^Female^24^WHITE^completed high school^grow  small town^999^now city center^999^apartment^999^Canada^employed^H.E OPERATOR^not student^full-time^
+1849^Female^52^nz european^undergraduate^grow  city suburbs^999^now city suburbs^999^detached^999^New Zealand^employed^Adult Educator^not student^part-time^
+1850^Male^18^NZ European^completed high school^grow  city suburbs^999^now city suburbs^999^detached^999^New Zealand^employed^Part time butchery^not student^part-time^
+1852^Female^33^European^undergraduate^grow  city suburbs^999^now city center^999^detached^999^New Zealand^employed^Manager^not student^full-time^
+1853^Female^59^white^completed college degree^grow  city suburbs^999^now city suburbs^999^detached^999^United Kingdom^UNemployed^retired^not student^999^
+1854^Female^53^Black American^undergraduate^grow  city center^999^now city suburbs^999^apartment^999^United States of America^employed^Administrative Assistant^not student^full-time^
+1856^Male^16^white^some high school^grow  small town^999^now small town^999^detached^999^United States of America^UNemployed^999^student^full-time^
+1858^Female^27^chilean^undergraduate^grow  small town^999^now small town^999^townhouse^999^Chile^UNemployed^winemaker^not student^part-time^
+1862^Female^18^white british^some high school^grow  city suburbs^999^now other^large town^detached^999^United Kingdom^UNemployed^999^student^full-time^
+1863^Female^18^German^completed high school^grow  rural or farm^999^now rural or farm^999^detached^999^Canada^UNemployed^999^student^part-time^
+1864^Female^54^Black^trade^grow  city center^999^now city center^999^detached^999^United States of America^UNemployed^999^not student^999^
+1787^Female^22^Eurasian^some uni^grow  city suburbs^999^now city center^999^townhouse^999^New Zealand^employed^Outbound Customer Service & Sales^not student^full-time^
+1869^Female^33^Kiwi^undergraduate^grow  rural or farm^999^now small town^999^apartment^999^New Zealand^employed^promotion education for mission agency^student^part-time^
+1871^Female^47^New Zealander^undergraduate^grow  small town^999^now small town^999^detached^999^New Zealand^employed^Teacher^not student^full-time^
+1873^Male^17^caucasian^some high school^grow  city suburbs^999^now city suburbs^999^building other^normal house^United States of America^employed^Dish Washer^student^part-time^
+1860^Female^33^white european^some high school^grow  other^equally halved between a farm during summer and city during winter^now city center^999^apartment^999^New Zealand^employed^artist^999^full-time^
+1876^Male^41^Caucasian^undergraduate^grow  city suburbs^999^now city suburbs^999^detached^999^Australia^employed^Veterinarian^student^full-time^
+1874^Male^29^White^master^grow  city suburbs^999^now city suburbs^999^detached^999^United States of America^employed^software developer^student^full-time^
+1880^Female^20^Maori^some uni^grow  city suburbs^999^now city suburbs^999^apartment^999^New Zealand^employed^Research Assistant^student^full-time^
+1879^999^74^White Anglo Saxon^master^grow  city suburbs^999^now rural or farm^999^detached^999^United Kingdom^UNemployed^Retired^student^part-time^
+1882^Female^41^caucasian^PhD^grow  city suburbs^999^now city center^999^detached^999^Canada^employed^professor^not student^full-time^
+1884^Female^26^caucasian^completed high school^grow  small town^999^now city suburbs^999^detached^999^United States of America^employed^Bartender^student^full-time^
+1890^Female^49^white^completed high school^grow  small town^999^now small town^999^building other^mobile home but getting ready to move to house^United States of America^UNemployed^disabled^not student^999^
+1891^Female^31^White^completed high school^grow  small town^999^now city suburbs^999^apartment^999^United States of America^employed^Medical Assistant^not student^full-time^
+1893^Female^27^new zealand european^completed high school^grow  small town^999^now small town^999^townhouse^999^New Zealand^employed^Service Team Leader^not student^full-time^
+1894^Female^28^black^completed high school^grow  small town^999^now city suburbs^999^apartment^999^United States of America^UNemployed^999^not student^999^
+1892^Female^44^irish^some high school^grow  rural or farm^999^now small town^999^detached^999^Canada^UNemployed^999^not student^999^
+1909^Male^69^grey^some high school^grow  city center^999^now city center^999^building other^dungeon^Canada^employed^slave^not student^part-time^
+1913^Male^11^999^undergraduate^999^999^now city suburbs^999^detached^999^Canada^UNemployed^999^student^999^
